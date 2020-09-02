@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>零界点</title>
+  
+  <subtitle>只剩记忆可以炫耀,即使说说也好</subtitle>
+  <link href="https://blog.zerow.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zerow.cn/"/>
+  <updated>2020-08-31T01:24:28.994Z</updated>
+  <id>https://blog.zerow.cn/</id>
+  
+  <author>
+    <name>Zerow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows升级提示无法配置一个或多个系统组件，请重新启动安装</title>
+    <link href="https://blog.zerow.cn/technology/windows-upgrade-prompts-that-one-or-more-system-components-cannot-be-configured-please-restart-the-installation.html"/>
+    <id>https://blog.zerow.cn/technology/windows-upgrade-prompts-that-one-or-more-system-components-cannot-be-configured-please-restart-the-installation.html</id>
+    <published>2019-12-29T11:05:02.000Z</published>
+    <updated>2020-08-31T01:24:28.994Z</updated>
+    
+    
+    <summary type="html">Windows升级提示“Windows无法配置一个或多个系统组件。要安装Windows，请重新启动计算机，然后重新启动安装”（Windows could not configure one or more systm components. To install Windows, restart the computer and then restart the installation.），下面介绍在无需重装系统的情况下直接执行系统更新。</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Windows 10" scheme="https://blog.zerow.cn/tags/Windows-10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows环境MySQL多版本共存</title>
+    <link href="https://blog.zerow.cn/develop/database/multiple-versions-of-mysql-coexist-in-windows-environment.html"/>
+    <id>https://blog.zerow.cn/develop/database/multiple-versions-of-mysql-coexist-in-windows-environment.html</id>
+    <published>2019-12-08T13:19:07.000Z</published>
+    <updated>2020-08-31T03:18:11.214Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;假设本机已安装MySQL 8.0，现在想再安装一个5.7版本&lt;/p&gt;
+&lt;h3 id=&quot;下载MySQL&quot;&gt;&lt;a href=&quot;#下载MySQL&quot; class=&quot;headerlink&quot; title=&quot;下载MySQL&quot;&gt;&lt;/a&gt;下载MySQL&lt;/h3&gt;&lt;p&gt;官网下载MySQL 5.</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="database" scheme="https://blog.zerow.cn/categories/develop/database/"/>
+    
+    
+    <category term="MySQL" scheme="https://blog.zerow.cn/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jsDelivr免费图床</title>
+    <link href="https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html"/>
+    <id>https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html</id>
+    <published>2019-11-30T09:13:59.000Z</published>
+    <updated>2020-08-28T05:55:59.289Z</updated>
+    
+    
+    <summary type="html">本文介绍使用GitHub+jsDelivr(CDN)+PicGo(图库上传)结合来处理图片存储</summary>
+    
+    
+    
+    <category term="resource" scheme="https://blog.zerow.cn/categories/resource/"/>
+    
+    
+    <category term="图床" scheme="https://blog.zerow.cn/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coding自动化部署Hexo博客</title>
+    <link href="https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html"/>
+    <id>https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html</id>
+    <published>2019-11-12T11:01:44.000Z</published>
+    <updated>2020-08-31T03:05:59.782Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;当前发布博客的方式是在本地电脑上执行以下命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ hexo g（生成静态文件）
+$ hexo s（本地测试）
+$ hexo d（发布到代码仓库）&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后如果我的代码备份在代码仓库的话（），还要执行提交命令。如果只</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="blog" scheme="https://blog.zerow.cn/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://blog.zerow.cn/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IMDb Top 250</title>
+    <link href="https://blog.zerow.cn/entertainment/imdb-top-250.html"/>
+    <id>https://blog.zerow.cn/entertainment/imdb-top-250.html</id>
+    <published>2019-10-31T15:35:22.000Z</published>
+    <updated>2020-07-01T12:21:08.656Z</updated>
+    
+    
+    <summary type="html">IMDb Top 250的经典电影，收藏了慢慢看</summary>
+    
+    
+    
+    <category term="entertainment" scheme="https://blog.zerow.cn/categories/entertainment/"/>
+    
+    
+    <category term="Movie" scheme="https://blog.zerow.cn/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMWare Workstation Pro无法在Windows上运行</title>
+    <link href="https://blog.zerow.cn/technology/vmware-workstation-pro-cannot-run-on-windows.html"/>
+    <id>https://blog.zerow.cn/technology/vmware-workstation-pro-cannot-run-on-windows.html</id>
+    <published>2019-09-13T13:34:57.000Z</published>
+    <updated>2020-08-28T06:13:31.323Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;VMware Workstation Pro can’t run on Windows（VMWare Workstation Pro无法在Windows上运行）&lt;/p&gt;
+&lt;p&gt;启动&lt;code&gt;VMware® Workstation 15 Pro&lt;/code&gt;提示：”VMware Workstation Pro can’t run on Windows“。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="虚拟机" scheme="https://blog.zerow.cn/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DotNetCore开发入门</title>
+    <link href="https://blog.zerow.cn/develop/dotnet/getting-started-with-dotnetcore-development.html"/>
+    <id>https://blog.zerow.cn/develop/dotnet/getting-started-with-dotnetcore-development.html</id>
+    <published>2019-09-08T13:01:25.000Z</published>
+    <updated>2020-09-02T10:51:14.841Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;安装虚拟机-VMWare&quot;&gt;&lt;a href=&quot;#安装虚拟机-VMWare&quot; class=&quot;headerlink&quot; title=&quot;安装虚拟机 VMWare&quot;&gt;&lt;/a&gt;安装虚拟机 VMWare&lt;/h2&gt;&lt;p&gt;从官方网站&lt;a href=&quot;https://my.vmwar</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="dotnet" scheme="https://blog.zerow.cn/categories/develop/dotnet/"/>
+    
+    
+    <category term=".net core" scheme="https://blog.zerow.cn/tags/net-core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nokia6第一代从Android9降级到Android8</title>
+    <link href="https://blog.zerow.cn/technology/mobile/nokia6-first-generation-downgrade-from-android9-to-android8.html"/>
+    <id>https://blog.zerow.cn/technology/mobile/nokia6-first-generation-downgrade-from-android9-to-android8.html</id>
+    <published>2019-08-30T13:17:52.000Z</published>
+    <updated>2020-08-28T10:06:49.135Z</updated>
+    
+    
+    <summary type="html">第一代Nokia 6升级到Android 9.0系统后非常耗电，那么有没有办法可以降级到Android 8呢，答案事肯定的。</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    <category term="mobile" scheme="https://blog.zerow.cn/categories/technology/mobile/"/>
+    
+    
+    <category term="数码" scheme="https://blog.zerow.cn/tags/%E6%95%B0%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不爱你,不度生</title>
+    <link href="https://blog.zerow.cn/entertainment/dont-love-you-save-your-life.html"/>
+    <id>https://blog.zerow.cn/entertainment/dont-love-you-save-your-life.html</id>
+    <published>2019-08-09T11:18:14.000Z</published>
+    <updated>2020-08-28T05:55:59.154Z</updated>
+    
+    
+    <summary type="html">18岁，你读了大学。20岁，你大二结束，开始悔恨自己前两年幼稚的行为 于是开始努力 22岁你大学毕业了，却发现 找不到一份令自己满意的工作</summary>
+    
+    
+    
+    <category term="entertainment" scheme="https://blog.zerow.cn/categories/entertainment/"/>
+    
+    
+    <category term="Emotion" scheme="https://blog.zerow.cn/tags/Emotion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP7开启PDO</title>
+    <link href="https://blog.zerow.cn/develop/web/php7-open-pdo.html"/>
+    <id>https://blog.zerow.cn/develop/web/php7-open-pdo.html</id>
+    <published>2019-08-01T07:54:12.000Z</published>
+    <updated>2020-08-28T05:56:01.568Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;PHP7开启PDO&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开&lt;code&gt;PHP.ini&lt;/code&gt;配置文件，首先确定&lt;code&gt;extension_dir&lt;/code&gt;的值已经修改为：&lt;code&gt;PHP安装路径/ext&lt;/code&gt;，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;co</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="web" scheme="https://blog.zerow.cn/categories/develop/web/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.zerow.cn/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP7开启cURL</title>
+    <link href="https://blog.zerow.cn/develop/web/php7-open-curl.html"/>
+    <id>https://blog.zerow.cn/develop/web/php7-open-curl.html</id>
+    <published>2019-08-01T07:50:36.000Z</published>
+    <updated>2020-08-28T05:56:01.852Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;PHP7开启cURL&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开&lt;code&gt;php.ini&lt;/code&gt;文件，将&lt;code&gt;extension=curl&lt;/code&gt;前的分号去掉&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;将&lt;code&gt;PHP&lt;/code&gt;目录下的&lt;code&gt;libssh</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="web" scheme="https://blog.zerow.cn/categories/develop/web/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.zerow.cn/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云OSS同步方案-ossutil</title>
+    <link href="https://blog.zerow.cn/develop/devops/alibaba-cloud-oss-synchronization-solutionossutil.html"/>
+    <id>https://blog.zerow.cn/develop/devops/alibaba-cloud-oss-synchronization-solutionossutil.html</id>
+    <published>2019-04-17T11:01:32.000Z</published>
+    <updated>2020-08-28T05:56:00.945Z</updated>
+    
+    
+    <summary type="html">使用阿里云OSS工具-ossutil，执行文件同步方案</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="Aliyun" scheme="https://blog.zerow.cn/tags/Aliyun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome安装插件提示CRX_HEADER_INVALID</title>
+    <link href="https://blog.zerow.cn/technology/chrome-install-plugin-prompt-crxheaderinvalid.html"/>
+    <id>https://blog.zerow.cn/technology/chrome-install-plugin-prompt-crxheaderinvalid.html</id>
+    <published>2019-03-27T10:05:25.000Z</published>
+    <updated>2020-08-28T05:55:59.324Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在扩展管理里面拖入&lt;code&gt;crx&lt;/code&gt;扩展程序文件，提示”CRX_HEADER_INVALID”，解决办法：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;将&lt;code&gt;crx&lt;/code&gt;文件扩展名强制更改为&lt;code&gt;rar&lt;/code&gt;，然后解压该文件夹，把里面的”_me</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Chrome" scheme="https://blog.zerow.cn/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows10资源管理器不能自动刷新</title>
+    <link href="https://blog.zerow.cn/technology/windows-10-explorer-cannot-refresh-automatically.html"/>
+    <id>https://blog.zerow.cn/technology/windows-10-explorer-cannot-refresh-automatically.html</id>
+    <published>2019-03-06T11:21:08.000Z</published>
+    <updated>2020-08-28T06:13:30.749Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;code&gt;Windows 10&lt;/code&gt;资源管理器中进行任何操作，比如复制、粘贴、新建、重命名文件/文件夹，窗口并不会立即刷新，除非重新打开窗口或者&lt;code&gt;F5&lt;/code&gt;刷新，怎么解决这个问题呢？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Windows 10" scheme="https://blog.zerow.cn/tags/Windows-10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>发送空白动态</title>
+    <link href="https://blog.zerow.cn/entertainment/send-blank-activity.html"/>
+    <id>https://blog.zerow.cn/entertainment/send-blank-activity.html</id>
+    <published>2019-02-18T11:08:53.000Z</published>
+    <updated>2020-08-28T05:55:59.574Z</updated>
+    
+    
+    <summary type="html">介绍在微博、朋友圈等地方发送空白动态的方法。</summary>
+    
+    
+    
+    <category term="entertainment" scheme="https://blog.zerow.cn/categories/entertainment/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vivo手机使用Recovery恢复系统</title>
+    <link href="https://blog.zerow.cn/technology/mobile/vivo-mobile-phone-uses-recovery-to-restore-the-system.html"/>
+    <id>https://blog.zerow.cn/technology/mobile/vivo-mobile-phone-uses-recovery-to-restore-the-system.html</id>
+    <published>2019-02-12T10:05:25.000Z</published>
+    <updated>2020-08-31T01:24:28.999Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;进入手机的&lt;code&gt;Recovery&lt;/code&gt;模式，清除数据恢复出厂设置。此方法将手机恢复至出厂状态，手机上的个人数据、资料、通讯录、应用均会丢失。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;关机状态下同时按住音量上键加电源</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    <category term="mobile" scheme="https://blog.zerow.cn/categories/technology/mobile/"/>
+    
+    
+    <category term="Phone" scheme="https://blog.zerow.cn/tags/Phone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下PHP环境安装配置</title>
+    <link href="https://blog.zerow.cn/develop/devops/installation-and-configuration-of-php-environment-under-windows.html"/>
+    <id>https://blog.zerow.cn/develop/devops/installation-and-configuration-of-php-environment-under-windows.html</id>
+    <published>2019-01-12T12:47:27.000Z</published>
+    <updated>2020-08-28T05:56:00.490Z</updated>
+    
+    
+    <summary type="html">Windows下PHP环境安装配置</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="PHP" scheme="https://blog.zerow.cn/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下Apache服务器安装配置</title>
+    <link href="https://blog.zerow.cn/develop/devops/apache-server-installation-and-configuration-under-windows.html"/>
+    <id>https://blog.zerow.cn/develop/devops/apache-server-installation-and-configuration-under-windows.html</id>
+    <published>2019-01-12T11:20:00.000Z</published>
+    <updated>2020-08-28T05:56:02.347Z</updated>
+    
+    
+    <summary type="html">Windows下Apache服务器安装配置</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="Server" scheme="https://blog.zerow.cn/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows10获取文件和文件夹的所有权</title>
+    <link href="https://blog.zerow.cn/technology/windows-10-takes-ownership-of-files-and-folders.html"/>
+    <id>https://blog.zerow.cn/technology/windows-10-takes-ownership-of-files-and-folders.html</id>
+    <published>2019-01-08T10:41:24.000Z</published>
+    <updated>2020-08-28T05:15:35.230Z</updated>
+    
+    
+    <summary type="html">Windows10获取文件和文件夹的所有权</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Windows 10" scheme="https://blog.zerow.cn/tags/Windows-10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows计划任务无法执行</title>
+    <link href="https://blog.zerow.cn/develop/devops/windows-scheduled-task-cannot-be-executed.html"/>
+    <id>https://blog.zerow.cn/develop/devops/windows-scheduled-task-cannot-be-executed.html</id>
+    <published>2018-12-18T13:01:12.000Z</published>
+    <updated>2020-08-31T01:24:28.879Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;操作系统是&lt;code&gt;Windows Server 2012 R2&lt;/code&gt;，以前一直运行的好好的，突然就挂了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://zsource-1257448055.cos.ap-shanghai.myqcloud.com/img/%E</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="Windows" scheme="https://blog.zerow.cn/tags/Windows/"/>
+    
+  </entry>
+  
+</feed>
