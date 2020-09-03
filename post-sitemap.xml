@@ -8,6 +8,46 @@
     </url>
 
     <url>
+        <loc>https://blog.zerow.cn/develop/web/php7-open-pdo.html</loc>
+        <lastmod>2020-09-03T01:35:59.634Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.zerow.cn/entertainment/imdb-top-250.html</loc>
+        <lastmod>2020-09-03T01:32:46.260Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html</loc>
+        <lastmod>2020-09-03T01:31:40.075Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html</loc>
+        <lastmod>2020-09-03T01:22:32.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.zerow.cn/develop/tool/ssh-key-generation-and-multiple-management-in-windows-environment.html</loc>
+        <lastmod>2020-09-03T01:17:16.010Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://blog.zerow.cn/develop/dotnet/getting-started-with-dotnetcore-development.html</loc>
         <lastmod>2020-09-02T10:51:14.841Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,14 +122,6 @@
     <url>
         <loc>https://blog.zerow.cn/develop/linux/centos7-sets-fixed-ip-in-vmware-virtual-machine.html</loc>
         <lastmod>2020-08-31T03:05:59.960Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html</loc>
-        <lastmod>2020-08-31T03:05:59.782Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -352,14 +384,6 @@
     </url>
 
     <url>
-        <loc>https://blog.zerow.cn/develop/tool/ssh-key-generation-and-multiple-management-in-windows-environment.html</loc>
-        <lastmod>2020-08-28T05:56:02.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://blog.zerow.cn/develop/dotnet/visual-studio-runs-as-an-administrator-by-default.html</loc>
         <lastmod>2020-08-28T05:56:02.501Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -442,14 +466,6 @@
     <url>
         <loc>https://blog.zerow.cn/technology/mobile/precautions-for-using-ipad.html</loc>
         <lastmod>2020-08-28T05:56:01.589Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.zerow.cn/develop/web/php7-open-pdo.html</loc>
-        <lastmod>2020-08-28T05:56:01.568Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -840,14 +856,6 @@
     </url>
 
     <url>
-        <loc>https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html</loc>
-        <lastmod>2020-08-28T05:55:59.289Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://blog.zerow.cn/manage/healthy-schedule.html</loc>
         <lastmod>2020-08-28T05:55:59.277Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1002,14 +1010,6 @@
     <url>
         <loc>https://blog.zerow.cn/manage/learn-how-to-adapt-the-environment.html</loc>
         <lastmod>2020-07-01T12:28:17.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.zerow.cn/entertainment/imdb-top-250.html</loc>
-        <lastmod>2020-07-01T12:21:08.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

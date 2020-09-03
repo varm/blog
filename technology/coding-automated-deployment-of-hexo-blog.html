@@ -519,45 +519,37 @@
 <pre><code>$ hexo g（生成静态文件）
 $ hexo s（本地测试）
 $ hexo d（发布到代码仓库）</code></pre>
-<p>然后如果我的代码备份在代码仓库的话（），还要执行提交命令。如果只用把代码提交到仓库，然后自动帮我们部署那就很轻松了。</p>
+<p>如果我的代码备份在代码仓库的话（），还要执行提交命令。如果只用把代码提交到仓库，然后自动帮我们部署那就很轻松了。</p>
 <h3 id="Coding"><a href="#Coding" class="headerlink" title="Coding"></a>Coding</h3><ol>
-<li><p>登陆Coding.net，鼠标移动到个人头像，点击“个人账户设置”</p>
-</li>
-<li><p>点击“访问令牌”</p>
-</li>
-<li><p>点击“新建令牌”</p>
+<li><p>登陆 <a href="https://coding.net/" target="_blank" rel="external nofollow noopener noreferrer">CODING</a>，鼠标移动到个人头像，点击[个人账户设置]-&gt;[访问令牌]-&gt;“新建令牌”</p>
 <ul>
 <li><p>令牌描述随便写，比如“hexo自动化部署”</p>
 </li>
 <li><p>勾选“<code>project：depot 读/写</code>”这一项</p>
 </li>
-<li><p>点击“确认”</p>
-</li>
 </ul>
 </li>
-<li><p>生成令牌成功后，记录一下令牌用户名和令牌密码</p>
+<li><p>点击[确认]，生成令牌成功后，记录一下令牌用户名和令牌密码</p>
 </li>
 </ol>
-<h3 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h3><p>点击个人头像-&gt;Settings-&gt;Developer settings-&gt;Personal access tokens</p>
-<p>点击“<strong>Generate new token</strong>”</p>
+<h3 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h3><p>点击[个人头像]-&gt;[Settings]-&gt;[Developer settings]-&gt;[Personal access tokens]</p>
+<p>点击 [Generate new token]</p>
 <ul>
 <li><code>Note</code>中随便写，比如：“Hexo自动化部署”，</li>
-<li>勾选“repo”</li>
-<li>点击“Generate token”</li>
+<li>勾选“repo”<br>点击[Generate token]，生成成功后记住 token。</li>
 </ul>
-<p>生成成功后记住“token”</p>
-<h3 id="创建构建计划"><a href="#创建构建计划" class="headerlink" title="创建构建计划"></a>创建构建计划</h3><p>进入coding的hexo仓库项目，点击“持续集成”-&gt;”构建计划”，点击“➕”-&gt;”自定义构建过程”，</p>
+<h3 id="创建构建计划"><a href="#创建构建计划" class="headerlink" title="创建构建计划"></a>创建构建计划</h3><p>进入 <a href="https://coding.net/" target="_blank" rel="external nofollow noopener noreferrer">CODING</a> 的hexo源码仓库项目，点击“持续集成”-&gt;”构建计划”，点击[➕]-&gt;[自定义构建过程]，</p>
 <ul>
 <li><p>构建计划名称：Hexo自动化部署</p>
 </li>
-<li><p>代码源：coding或者GitHub自己选</p>
+<li><p>代码源：coding 或者 GitHub 自己选</p>
 </li>
 <li><p>配置来源：选择默认的“使用静态配置的 Jenkinsfile”</p>
 </li>
 <li><p>勾选“是否前往配置详情”</p>
 </li>
 </ul>
-<p>点击“确定”进入“流程配置”页</p>
+<p>点击[确定]进入“流程配置”页</p>
 <h4 id="流程配置"><a href="#流程配置" class="headerlink" title="流程配置"></a>流程配置</h4><p>点击“文本编辑器”，复制以下代码，“克隆项目”这一步配置的地址信息需填写自己个人的</p>
 <blockquote>
 <p>注意，这里的仓库地址是Hexo源码仓库，非Page仓库。</p>
@@ -588,14 +580,14 @@ pipeline {
   }
 }
 {% endfolding %}</code></pre>
-<p>然后点击“保存”。</p>
+<p>然后点击[保存]。</p>
 <h4 id="触发规则"><a href="#触发规则" class="headerlink" title="触发规则"></a>触发规则</h4><ul>
 <li>勾选“代码更新时自动执行”</li>
-<li>推送到“master”分支时触发构建（这里的分支为Hexo源码分支）</li>
+<li>推送到 “master” 分支时触发构建（这里的分支为 Hexo 源码分支）</li>
 <li>合并请求中的项目默认全部选中</li>
 </ul>
-<p>点击“保存修改”</p>
-<h4 id="变量与缓存"><a href="#变量与缓存" class="headerlink" title="变量与缓存"></a>变量与缓存</h4><p>为了加快构建速度，建议勾选“npm”，点击“保存修改”。</p>
+<p>点击[保存修改]</p>
+<h4 id="变量与缓存"><a href="#变量与缓存" class="headerlink" title="变量与缓存"></a>变量与缓存</h4><p>为了加快构建速度，建议勾选 “npm” ，点击[保存修改]。</p>
 <h3 id="修改-config-yml配置"><a href="#修改-config-yml配置" class="headerlink" title="修改_config.yml配置"></a>修改_config.yml配置</h3><p>部署信息如下：</p>
 <pre><code>deploy:
   type: git
@@ -644,10 +636,10 @@ $ git push</code></pre>
     <div class="new-meta-box">
       
         
-          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-08-31T11:05:59+08:00">
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-09-03T09:31:40+08:00">
   <a class="notlink">
     <i class="fas fa-edit fa-fw" aria-hidden="true"></i>
-    <p>更新于：2020年8月31日</p>
+    <p>更新于：2020年9月3日</p>
   </a>
 </div>
 
@@ -714,9 +706,9 @@ $ git push</code></pre>
       
         <a class="prev" href="/resource/jsdelivr-free-picture-bed.html">
           <p class="title"><i class="fas fa-chevron-left" aria-hidden="true"></i>jsDelivr免费图床</p>
-          <p class="content">本文介绍使用GitHub+jsDelivr(CDN)+PicGo(图库上传)结合来处理图片存储
-新建GitHub仓库新建一个仓库，比如：cdn-assert
-生成Token点击GitHub个人头...</p>
+          <p class="content">本文介绍使用 GitHub+jsDelivr(CDN)+PicGo(图库上传) 结合来处理图片存储
+新建 GitHub 仓库新建一个仓库，比如：cdn-assert
+生成 Token点击 Git...</p>
         </a>
       
       

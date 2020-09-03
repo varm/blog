@@ -65,10 +65,10 @@
     <link href="https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html"/>
     <id>https://blog.zerow.cn/resource/jsdelivr-free-picture-bed.html</id>
     <published>2019-11-30T09:13:59.000Z</published>
-    <updated>2020-08-28T05:55:59.289Z</updated>
+    <updated>2020-09-03T01:22:32.128Z</updated>
     
     
-    <summary type="html">本文介绍使用GitHub+jsDelivr(CDN)+PicGo(图库上传)结合来处理图片存储</summary>
+    <summary type="html">本文介绍使用 GitHub+jsDelivr(CDN)+PicGo(图库上传) 结合来处理图片存储</summary>
     
     
     
@@ -84,7 +84,7 @@
     <link href="https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html"/>
     <id>https://blog.zerow.cn/technology/coding-automated-deployment-of-hexo-blog.html</id>
     <published>2019-11-12T11:01:44.000Z</published>
-    <updated>2020-08-31T03:05:59.782Z</updated>
+    <updated>2020-09-03T01:31:40.075Z</updated>
     
     
       
@@ -93,7 +93,7 @@
 &lt;pre&gt;&lt;code&gt;$ hexo g（生成静态文件）
 $ hexo s（本地测试）
 $ hexo d（发布到代码仓库）&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后如果我的代码备份在代码仓库的话（），还要执行提交命令。如果只</summary>
+&lt;p&gt;如果我的代码备份在代码仓库的话（），还要执行提交命令。如果只用把</summary>
       
     
     
@@ -112,7 +112,7 @@ $ hexo d（发布到代码仓库）&lt;/code&gt;&lt;/pre&gt;
     <link href="https://blog.zerow.cn/entertainment/imdb-top-250.html"/>
     <id>https://blog.zerow.cn/entertainment/imdb-top-250.html</id>
     <published>2019-10-31T15:35:22.000Z</published>
-    <updated>2020-07-01T12:21:08.656Z</updated>
+    <updated>2020-09-03T01:32:46.260Z</updated>
     
     
     <summary type="html">IMDb Top 250的经典电影，收藏了慢慢看</summary>
@@ -215,16 +215,16 @@ $ hexo d（发布到代码仓库）&lt;/code&gt;&lt;/pre&gt;
     <link href="https://blog.zerow.cn/develop/web/php7-open-pdo.html"/>
     <id>https://blog.zerow.cn/develop/web/php7-open-pdo.html</id>
     <published>2019-08-01T07:54:12.000Z</published>
-    <updated>2020-08-28T05:56:01.568Z</updated>
+    <updated>2020-09-03T01:35:59.634Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;PHP7开启PDO&lt;/p&gt;
+    <summary type="html">&lt;p&gt;PHP 7 开启 PDO&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;打开&lt;code&gt;PHP.ini&lt;/code&gt;配置文件，首先确定&lt;code&gt;extension_dir&lt;/code&gt;的值已经修改为：&lt;code&gt;PHP安装路径/ext&lt;/code&gt;，&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;打开 &lt;code&gt;PHP.ini&lt;/code&gt; 配置文件，首先确定 &lt;code&gt;extension_dir&lt;/code&gt; 的值已经修改为：&lt;code&gt;PHP安装路径/ext&lt;/code&gt;，&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;co</summary>
+&lt;li</summary>
       
     
     
