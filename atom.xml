@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>泽雷的个人博客</title>
+  
+  <subtitle>只剩记忆可以炫耀,即使说说也好</subtitle>
+  <link href="https://blog.zerow.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zerow.cn/"/>
+  <updated>2025-10-20T11:18:00.000Z</updated>
+  <id>https://blog.zerow.cn/</id>
+  
+  <author>
+    <name>Zerow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>免费开通！公众号秒变AI自动答👉用户消息实时回24小时不掉线</title>
+    <link href="https://blog.zerow.cn/develop/ai/98fae3bf.html"/>
+    <id>https://blog.zerow.cn/develop/ai/98fae3bf.html</id>
+    <published>2025-10-20T11:18:00.000Z</published>
+    <updated>2025-10-20T11:18:00.000Z</updated>
+    
+    
+    <summary type="html">腾讯元器是基于腾讯混元大模型开发的一站式智能体创作与分发平台，无需编写代码，用户就能轻松创建和部署智能体，实现聊天对话、内容创作、图像生成等功能。现在我们在腾讯元器平台快速为自己的公众号配置一个免费的专属AI智能体。</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="ai" scheme="https://blog.zerow.cn/categories/develop/ai/"/>
+    
+    
+    <category term="AI" scheme="https://blog.zerow.cn/tags/AI/"/>
+    
+    <category term="公众号" scheme="https://blog.zerow.cn/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在Cherry Studio中配置文颜MCP Server</title>
+    <link href="https://blog.zerow.cn/develop/ai/f5dd71a7.html"/>
+    <id>https://blog.zerow.cn/develop/ai/f5dd71a7.html</id>
+    <published>2025-09-24T11:18:00.000Z</published>
+    <updated>2025-09-24T11:18:00.000Z</updated>
+    
+    
+    <summary type="html">「文颜」是一款多平台排版美化工具，让你将 Markdown 一键发布至微信公众号、知乎、今日头条等主流写作平台。文颜 MCP Server 是一个基于模型上下文协议的服务器组件，支持将 Markdown 格式的文章发布至微信公众号草稿箱，并使用与 [文颜]相同的主题系统进行排版。</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="ai" scheme="https://blog.zerow.cn/categories/develop/ai/"/>
+    
+    
+    <category term="文颜" scheme="https://blog.zerow.cn/tags/%E6%96%87%E9%A2%9C/"/>
+    
+    <category term="MCP" scheme="https://blog.zerow.cn/tags/MCP/"/>
+    
+    <category term="Cherry Studio" scheme="https://blog.zerow.cn/tags/Cherry-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费领取Google AI Pro 的用户进行教育身份验证</title>
+    <link href="https://blog.zerow.cn/develop/ai/b18d2784.html"/>
+    <id>https://blog.zerow.cn/develop/ai/b18d2784.html</id>
+    <published>2025-09-19T11:18:00.000Z</published>
+    <updated>2025-09-19T11:18:00.000Z</updated>
+    
+    
+    <summary type="html">2025 年 5 月份谷歌向部分国家的学生用户群提供 Google AI Pro 免费订阅套餐，该套餐常规订阅的话是 $19.9，以高校邮箱进行验证的话可以免费获得套餐。谷歌向学生用户群发放的免费套餐订阅时长为 12 个月，在订阅期限内用户可以免费使用多项服务，包括 Google Gemini 2.5 Pro AI 模型和Gmail 中的 Gemini、2TB 存储空间等。</summary>
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="ai" scheme="https://blog.zerow.cn/categories/develop/ai/"/>
+    
+    
+    <category term="Google" scheme="https://blog.zerow.cn/tags/Google/"/>
+    
+    <category term="AI" scheme="https://blog.zerow.cn/tags/AI/"/>
+    
+    <category term="Gemini" scheme="https://blog.zerow.cn/tags/Gemini/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苹果商店应用扣费后拒绝退款</title>
+    <link href="https://blog.zerow.cn/life/fb59f4e8.html"/>
+    <id>https://blog.zerow.cn/life/fb59f4e8.html</id>
+    <published>2025-06-28T11:18:00.000Z</published>
+    <updated>2025-06-28T11:18:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在苹果商店下载了一款画画App：“ArtWorkout: 画图和数字涂色游戏、画画软件”，上面标示了可以免费订阅试用，有显示 “Free Trial”，结果下载完成后立即扣费 198 元，并没有提供试用，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://zsource-1</summary>
+      
+    
+    
+    
+    <category term="life" scheme="https://blog.zerow.cn/categories/life/"/>
+    
+    
+    <category term="Apple" scheme="https://blog.zerow.cn/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云百炼AI翻译JSON文件</title>
+    <link href="https://blog.zerow.cn/develop/ai/7ad6a421.html"/>
+    <id>https://blog.zerow.cn/develop/ai/7ad6a421.html</id>
+    <published>2025-05-14T10:05:25.000Z</published>
+    <updated>2025-05-14T10:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;📦-安装&quot;&gt;&lt;a href=&quot;#📦-安装&quot; class=&quot;headerlink&quot; title=&quot;📦 安装&quot;&gt;&lt;/a&gt;📦 安装&lt;/h2&gt;&lt;p&gt;安装SDK：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="ai" scheme="https://blog.zerow.cn/categories/develop/ai/"/>
+    
+    
+    <category term="AI" scheme="https://blog.zerow.cn/tags/AI/"/>
+    
+    <category term="多语言" scheme="https://blog.zerow.cn/tags/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows11 24H2升级</title>
+    <link href="https://blog.zerow.cn/technology/40779b63.html"/>
+    <id>https://blog.zerow.cn/technology/40779b63.html</id>
+    <published>2025-02-08T19:22:25.000Z</published>
+    <updated>2025-02-08T19:22:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我使用的 Windows 11 修改版系统，直接获取不到最新版的 24H2 更新，需要修改注册表，打开 &lt;code&gt;Computer&#92;HKEY_LOCAL_MACHINE&#92;SOFTWARE&#92;Policies&#92;Microsoft&#92;Windows&#92;WindowsUpdate&lt;/</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Windows" scheme="https://blog.zerow.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用AI翻译多语言JSON文件</title>
+    <link href="https://blog.zerow.cn/develop/tool/9dd0730a.html"/>
+    <id>https://blog.zerow.cn/develop/tool/9dd0730a.html</id>
+    <published>2024-11-27T17:05:25.000Z</published>
+    <updated>2024-11-27T17:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;“你还在为那些密密麻麻的 JSON 文件头疼吗？想把 APP 改成全球版，却卡在翻译上？以往处理多语言界面翻译，我们需要一个个复制粘贴，不仅</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="tool" scheme="https://blog.zerow.cn/categories/develop/tool/"/>
+    
+    
+    <category term="AI" scheme="https://blog.zerow.cn/tags/AI/"/>
+    
+    <category term="多语言" scheme="https://blog.zerow.cn/tags/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker拉取镜像超时</title>
+    <link href="https://blog.zerow.cn/develop/devops/3f7bee26.html"/>
+    <id>https://blog.zerow.cn/develop/devops/3f7bee26.html</id>
+    <published>2024-11-25T18:05:25.000Z</published>
+    <updated>2024-11-25T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Docker 拉取镜像时，经常出现失败超时的情况，比如以下错误：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;b</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.zerow.cn/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关闭Chrome浏览器访问某些网站时自动弹出的谷歌快捷登录提示</title>
+    <link href="https://blog.zerow.cn/technology/b46077e9.html"/>
+    <id>https://blog.zerow.cn/technology/b46077e9.html</id>
+    <published>2024-09-28T19:22:25.000Z</published>
+    <updated>2024-09-28T19:22:25.000Z</updated>
+    
+    
+    <summary type="html">关闭Chrome浏览器访问某些网站时自动弹出的谷歌快捷登录提示</summary>
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Chrome" scheme="https://blog.zerow.cn/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub 提示 WARNING:REMOTE HOST IDENTIFICATION HAS CHANGED</title>
+    <link href="https://blog.zerow.cn/develop/tool/b4d6d4a3.html"/>
+    <id>https://blog.zerow.cn/develop/tool/b4d6d4a3.html</id>
+    <published>2023-03-28T18:05:25.000Z</published>
+    <updated>2023-03-28T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天在使用 GitHub 拉取仓库的时候，命令行中突然给出一个提示：”REMOTE HOST IDENTIFICATION HAS CHANGED”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://zsource-1257448055.cos.ap-shanghai.my</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="tool" scheme="https://blog.zerow.cn/categories/develop/tool/"/>
+    
+    
+    <category term="GitHub" scheme="https://blog.zerow.cn/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费使用ChatGPT-4</title>
+    <link href="https://blog.zerow.cn/develop/ai/cac615e4.html"/>
+    <id>https://blog.zerow.cn/develop/ai/cac615e4.html</id>
+    <published>2023-03-20T18:05:25.000Z</published>
+    <updated>2023-03-20T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;随着近年来人工智能技术的飞速发展，自然语言处理（NLP）已成为当前领域的热门话题。越来越多的人工智能产品正在被应用于众多行 业中，为用户提供便利和高效的服务。ChatGPT 是这一领域的一款卓越新型产品，近期它发布了一个最新的进化版本：ChatGPT-4，首次带来了在线生成</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="ai" scheme="https://blog.zerow.cn/categories/develop/ai/"/>
+    
+    
+    <category term="ChatGPT" scheme="https://blog.zerow.cn/tags/ChatGPT/"/>
+    
+    <category term="AI" scheme="https://blog.zerow.cn/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Drive更改本地存储路径</title>
+    <link href="https://blog.zerow.cn/technology/ea8a8808.html"/>
+    <id>https://blog.zerow.cn/technology/ea8a8808.html</id>
+    <published>2023-03-02T18:05:25.000Z</published>
+    <updated>2023-03-02T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Google Drive PC 客户端称为“桌面版 Google 云端硬盘”，它的同步选项有两种设置，点击“齿轮⚙”按钮-&amp;gt;“Preferences”-&amp;gt;“Google Drive”，这里有 “Stream files”（只存储在云端） 和 “Mirror fi</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Google Drive" scheme="https://blog.zerow.cn/tags/Google-Drive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决电报Telegram链接打不开</title>
+    <link href="https://blog.zerow.cn/technology/5981cd11.html"/>
+    <id>https://blog.zerow.cn/technology/5981cd11.html</id>
+    <published>2023-02-13T20:05:25.000Z</published>
+    <updated>2024-11-21T12:00:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;当我们使用绿色版本的 Telegram 或者将 Telegram 目录更换后，可能会出现 tg:// 链接无法打开，比如打开：&lt;a href=&quot;https://t.me/zhihuribao_rss%EF%BC%8C%E7%82%B9%E5%87%BB%E9%A1%B5%E</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="Telegram" scheme="https://blog.zerow.cn/tags/Telegram/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>潘多拉固件设置花生壳内网版</title>
+    <link href="https://blog.zerow.cn/develop/devops/d366f4e.html"/>
+    <id>https://blog.zerow.cn/develop/devops/d366f4e.html</id>
+    <published>2023-02-11T18:05:25.000Z</published>
+    <updated>2023-02-11T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;打开路由器，找到【扩展功能】-【花生壳内网版】，启用该功能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://zsource-1257448055.cos.ap-shanghai.myqcloud.com/img/oray-padavan-open</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="路由器" scheme="https://blog.zerow.cn/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL Server 2019 Express使用SQLCMD配置远程连接</title>
+    <link href="https://blog.zerow.cn/develop/database/a2e6d82f.html"/>
+    <id>https://blog.zerow.cn/develop/database/a2e6d82f.html</id>
+    <published>2022-12-06T18:05:25.000Z</published>
+    <updated>2022-12-06T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;⛏️安装-SQL-Server-2019-Express&quot;&gt;&lt;a href=&quot;#⛏️安装-SQL-Server-2019-Express&quot; class=&quot;headerlink&quot; title=&quot;⛏️安装 SQL Server 2019 Express&quot;&gt;&lt;/a&gt;⛏️</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="database" scheme="https://blog.zerow.cn/categories/develop/database/"/>
+    
+    
+    <category term="SQL Server" scheme="https://blog.zerow.cn/tags/SQL-Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware虚拟机安装GHO，ESD(wim)等系统镜像</title>
+    <link href="https://blog.zerow.cn/technology/734dd8f.html"/>
+    <id>https://blog.zerow.cn/technology/734dd8f.html</id>
+    <published>2022-11-02T18:05:25.000Z</published>
+    <updated>2022-11-02T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;ESD-文件介绍&quot;&gt;&lt;a href=&quot;#ESD-文件介绍&quot; class=&quot;headerlink&quot; title=&quot;ESD 文件介绍&quot;&gt;&lt;/a&gt;ESD 文件介绍&lt;/h2&gt;&lt;p&gt;ESD 文件是 Windows 系统一种文件格式，ESD 是一种具有更高压缩率的文件格式，并</summary>
+      
+    
+    
+    
+    <category term="technology" scheme="https://blog.zerow.cn/categories/technology/"/>
+    
+    
+    <category term="VMware" scheme="https://blog.zerow.cn/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python快速开启Web Server实现文件共享</title>
+    <link href="https://blog.zerow.cn/develop/devops/f84db492.html"/>
+    <id>https://blog.zerow.cn/develop/devops/f84db492.html</id>
+    <published>2022-10-20T14:05:25.000Z</published>
+    <updated>2022-10-20T14:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;偶尔需要临时分享本地的文件，如果本机已经配置好 Python 环境，那么只需要一行命令即可快速启动一个文件分享服务。&lt;/p&gt;
+&lt;p&gt;在命令行下执行：&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutt</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="devops" scheme="https://blog.zerow.cn/categories/develop/devops/"/>
+    
+    
+    <category term="Python" scheme="https://blog.zerow.cn/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#对MongoDB增删改查以及MongoDB Atlas使用</title>
+    <link href="https://blog.zerow.cn/develop/dotnet/70600540.html"/>
+    <id>https://blog.zerow.cn/develop/dotnet/70600540.html</id>
+    <published>2022-10-14T18:05:25.000Z</published>
+    <updated>2022-10-14T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;MongoDB 是一个不同于 MySQL、SQL Server 等传统关系型数据库的面向文档的数据库管理系统，它是由 C++ 语言编写，基于</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="dotnet" scheme="https://blog.zerow.cn/categories/develop/dotnet/"/>
+    
+    
+    <category term="C#" scheme="https://blog.zerow.cn/tags/C/"/>
+    
+    <category term=".Net" scheme="https://blog.zerow.cn/tags/Net/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB提示Only fields are allowed in a $sort</title>
+    <link href="https://blog.zerow.cn/develop/dotnet/3e1ff97e.html"/>
+    <id>https://blog.zerow.cn/develop/dotnet/3e1ff97e.html</id>
+    <published>2022-10-09T18:05:25.000Z</published>
+    <updated>2022-10-09T18:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在 MongoDB 中执行查询时出现提示 ”System.NotSupportedException: Only fields are allowed in a $sort“，意思是排序操作中只允许字段。我的查询语句是这样的：&lt;/p&gt;
+&lt;figure class=&quot;high</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="dotnet" scheme="https://blog.zerow.cn/categories/develop/dotnet/"/>
+    
+    
+    <category term="MongoDB" scheme="https://blog.zerow.cn/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>.Net6控制台读取配置文件appsettings.json</title>
+    <link href="https://blog.zerow.cn/develop/dotnet/ba4dd87d.html"/>
+    <id>https://blog.zerow.cn/develop/dotnet/ba4dd87d.html</id>
+    <published>2022-09-09T20:05:25.000Z</published>
+    <updated>2022-09-09T20:05:25.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;之前的.Net framework 程序一般使用 &lt;code&gt;App.config&lt;/code&gt; 作为配置文件，不过微软在发布跨平台的 .N</summary>
+      
+    
+    
+    
+    <category term="develop" scheme="https://blog.zerow.cn/categories/develop/"/>
+    
+    <category term="dotnet" scheme="https://blog.zerow.cn/categories/develop/dotnet/"/>
+    
+    
+    <category term=".Net" scheme="https://blog.zerow.cn/tags/Net/"/>
+    
+  </entry>
+  
+</feed>
